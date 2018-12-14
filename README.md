@@ -7,18 +7,20 @@
 [![love](https://img.shields.io/badge/love-Cat-red.svg)](https://www.youtube.com/channel/UCgNudXfG3q3nm6K6oqITERA) 
 
 ---
-
 ![main](images/main.png)
+---
 
-
+### 오늘의 목차
 #### [1부. Azure AI 둘러보기, Azure Pass 등록](#1부)
 #### [2부. Data 준비, 전처리](#2부)
 #### [3부. 모델 훈련, 평가, 배포](#3부)
 
+---
 <a name = "1부"></a>
 ### 1부. Azure AI 둘러보기, Azure Pass 등록
-#### 1-1. 마이크로소트트 계정 생성하기 (live.com)
-> [주의] 이미 live.com 계정이 있는 분은 [https://signup.live.com/](https://signup.live.com/)에 바로 로그인하시면 됩니다. 하지만 하나의 계정당 하나의 Azure Pass만 사용할 수 있으므로 이전에 Azure Pass를 사용한 적이 있는 계정이라면 새로 계정을 생성해주세요!
+#### 1-1. 마이크로소트트 계정 로그인/생성하기 (live.com)
+> 이미 live.com 계정이 있는 분은 [https://signup.live.com/](https://signup.live.com/)에 바로 로그인하시면 됩니다.   
+> [주의] 하지만 하나의 계정당 하나의 Azure Pass만 사용할 수 있으므로 이전에 Azure Pass를 사용한 적이 있는 계정이라면 새로운 계정을 생성해주세요!!
 
 <details><summary>◀️◀️ 친절한 계정 생성 과정 펼쳐 보기(클릭) ▶️▶️</summary> <p>
 
@@ -48,7 +50,7 @@
 
 #### 1-2. Azure Pass 등록(어렵진 않지만 쉽지도 않은 Pass 등록! 친절한 스크린샷을 따라 천천히 등록해보아요)
 
-[https://www.microsoftazurepass.com/](https://www.microsoftazurepass.com)에 접속해 Azure Pass를 등록하는 과정입니다.
+> [https://www.microsoftazurepass.com/](https://www.microsoftazurepass.com)에 접속해 Azure Pass를 등록하는 과정입니다.
 
 <details><summary>◀️◀️ 친절한 Azure Pass 등록 과정 펼쳐 보기(클릭) ▶️▶️</summary>
 <p>
@@ -82,7 +84,7 @@ Azure Pass 등록 완료!
 </details>
 
 #### 1-3. Azure ML Studio 로그인
-대망의 [Azure ML Studio](https://studio.azureml.net)에 로그인해봅시다. 
+> 대망의 [Azure ML Studio](https://studio.azureml.net)에 로그인해봅시다. 
 
 <details><summary>◀️◀️ 친절한 Azure ML Studio 로그인 과정 펼쳐 보기(클릭) ▶️▶️</summary>
 <p>
@@ -95,11 +97,13 @@ Azure Pass 등록 완료!
 </p>
 </details>
 
+---
 <a name = "2부"></a>
 ### 2부. Data 준비, 전처리
 ##### [Data 내려받기](http://bit.ly/181215_hol_dataset)
 
 
+---
 <a name = "3부"></a>
 ### 3부. 모델 훈련, 평가, 배포
 ##### [Azure 머신러닝 모델 고르기](https://docs.microsoft.com/ko-kr/azure/machine-learning/studio/algorithm-choice)  
