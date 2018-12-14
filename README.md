@@ -30,6 +30,16 @@
 
 2. [https://www.microsoftazurepass.com/](https://www.microsoftazurepass.com)
 
+![사이트 접속](images/20181214-032.png)
+![마이크로소프트 계정확인](images/20181214-013.png)
+![Azure Pass 입력](images/20181214-012.png)
+![기다림](images/20181214-002.png)
+![Azure Pass 스폰서쉽 정보 입력](images/20181214-011.png)
+![개인정보 처리방침 동의](images/20181214-006.png)
+![기다림](images/20181214-005.png)
+![Azure Pass 등록 성공](images/20181214-003.png)
+
+
 #### 1-3. [Azure ML Studio 로그인](https://studio.azureml.net)
 ![](images/studio_01.png) 
  
