@@ -1,10 +1,10 @@
 # AI Boot Camp Azure ML Studio HOL
 #### 2018.12.15. Speaker: [전미정](https://github.com/MijeongJeon)🐈, Assistant: [김정환](https://github.com/iz4blue)🐵
 
-[![AIBootCamp](https://img.shields.io/badge/2018-AI Boot Camp-green.svg)](https://www.globalaibootcamp.com)
-[![with](https://img.shields.io/badge/with-Community Day-orange.svg)](https://festa.io/events/168/)
-[![Azure](https://img.shields.io/badge/Cloud-Azure-skyblue.svg)](https://azure.microsoft.com/ko-kr/)
-[![love](https://img.shields.io/badge/love-Cat-red.svg)](https://www.youtube.com/channel/UCgNudXfG3q3nm6K6oqITERA)
+[![AIBootCamp](https://img.shields.io/badge/2018-AIBootCamp-green.svg)](https://www.globalaibootcamp.com) 
+[![with](https://img.shields.io/badge/with-CommunityDay-orange.svg)](https://festa.io/events/168/) 
+[![Azure](https://img.shields.io/badge/Cloud-Azure-skyblue.svg)](https://azure.microsoft.com/ko-kr/) 
+[![love](https://img.shields.io/badge/love-Cat-red.svg)](https://www.youtube.com/channel/UCgNudXfG3q3nm6K6oqITERA) 
 
 ---
 
@@ -97,7 +97,7 @@ Azure Pass 등록 완료!
 
 <a name = "2부"></a>
 ### 2부. Data 준비, 전처리
-##### [Data 내려받기](http://bit.ly/181215_hol_dataset
+##### [Data 내려받기](http://bit.ly/181215_hol_dataset)
 
 
 <a name = "3부"></a>
@@ -118,4 +118,4 @@ Azure Pass 등록 완료!
 
 --- 
 
-#### [발표자료 보기](/181215_AIBootCamp_HOL.pdf)
+#### [📝 발표자료 보기](/181215_AIBootCamp_HOL.pdf)
