@@ -14,7 +14,8 @@
 #### 1-1. 마이크로소트트 계정 생성하기 (live.com)
 > [주의] 이미 live.com 계정이 있는 경우 바로 로그인하시면 됩니다. 하지만 하나의 계정당 하나의 Azure Pass만 사용할 수 있으므로 이전에 Azure Pass를 사용한 적이 있는 계정이라면 새로 계정을 생성해주세요!
 
-<details><summary>천천히 따라는 계정 생성하기 펼쳐 보기(클릭)</summary>
+[https://signup.live.com/](https://signup.live.com)에 접속해 로그인하거나 계정을 생성합니다.
+<details><summary>천천히 따라하는 계정 생성하기 펼쳐 보기(클릭)</summary>
 <p>
 
 1. [https://signup.live.com/](https://signup.live.com)에 접속해 로그인하거나 계정을 생성합니다.
@@ -35,6 +36,10 @@
 #### 1-2. Azure Pass 등록(어렵진 않지만 그렇다고 쉽지도 않은 Pass 등록! 친절한 스크린샷을 따라 천천히 등록해보아요)
 > [주의] 하나의 계정당 하나의 Azure Pass만 사용할 수 있습니다. 만일 이전에 Azure Pass를 사용한 적이 있는 계정이라면 새로 계정을 생성해주세요!
 
+[https://www.microsoftazurepass.com/](https://www.microsoftazurepass.com)에 접속해 Azure Pass를 등록합니다.
+<details><summary>천천히 따라하는 Azure Pass 등록과정 펼쳐 보기(클릭)</summary>
+<p>
+
 2. [https://www.microsoftazurepass.com/](https://www.microsoftazurepass.com)
 
 ![사이트 접속](images/20181214-032.png)
@@ -46,6 +51,9 @@
 ![기다림](images/20181214-005.png)
 ![Azure Pass 등록 성공](images/20181214-003.png)
 
+Azure Pass 등록 완료! 
+</p>
+</details>
 
 #### 1-3. [Azure ML Studio 로그인](https://studio.azureml.net)
 ![](images/studio_01.png) 
