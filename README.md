@@ -8,6 +8,9 @@
 
 ---
 
+![main](images/main.png)
+
+
 #### [1부. Azure AI 둘러보기, Azure Pass 등록](#1부)
 #### [2부. Data 준비, 전처리](#2부)
 #### [3부. 모델 훈련, 평가, 배포](#3부)
@@ -94,7 +97,7 @@ Azure Pass 등록 완료!
 
 <a name = "2부"></a>
 ### 2부. Data 준비, 전처리
-##### [Data 내려받기](http://bit.ly/181215_hol_dataset)
+##### [Data 내려받기](http://bit.ly/181215_hol_dataset
 
 
 <a name = "3부"></a>
@@ -112,3 +115,7 @@ Azure Pass 등록 완료!
 [Azure ML Studio에서 R 사용하기 실습](https://docs.microsoft.com/ko-kr/azure/machine-learning/studio/r-quickstart)  
 [Azure Cognitive Sevice](https://azure.microsoft.com/ko-kr/services/cognitive-services/)  
 [Azure Custom Vision](https://azure.microsoft.com/ko-kr/services/cognitive-services/custom-vision-service/)
+
+--- 
+
+#### [발표자료 보기](/181215_AIBootCamp_HOL.pdf)
