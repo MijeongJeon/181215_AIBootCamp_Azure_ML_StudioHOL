@@ -1,0 +1,5 @@
+{
+    "subscription_id": "ee89f14e-78a2-4d92-95c3-964197af4223", // 대시보드에서 확인
+    "resource_group": "AI_group",
+    "workspace_name": "ml_service"
+}
